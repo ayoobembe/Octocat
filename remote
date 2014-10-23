@@ -1,1 +1,2 @@
-Explain what the "upstream" remote us usually for, in your own words
+a git "upstream" remote is essentially a connection to another repository. In this particular
+case, a connection to a repository on the github server.
