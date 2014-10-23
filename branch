@@ -1,2 +1,5 @@
-Explain what a branch is, in your own words
+A branch is a reference pointing to a certain commit (and by extension it's parents),
+it can then be used to track further changes that occur. Different branches all
+starting from the same commit can track changes that occur in different "directions"
+so to speak. It's like schrodinger's cat on steroids.
 
